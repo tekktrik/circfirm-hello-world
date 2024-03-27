@@ -45,6 +45,7 @@ file = "requirements.txt"
 
 [tool.setuptools.dynamic.optional-dependencies]
 dev = {file = ["requirements-dev.txt"]}
+circfirm = {file = ["requirements-base.txt"]}
 
 [tool.ruff.lint]
 select = ["D", "PL", "UP", "I"]
