@@ -14,7 +14,7 @@ import click
 
 # The plugin will be loaded by attaching cli() to the main circfirm CLI
 # You can use name="XYZ" to give the command its own name
-@click.command(name="hello-world")
+@click.command(name="hello")
 def cli() -> None:
     """Say hi."""
     click.echo("Hello, world!")
