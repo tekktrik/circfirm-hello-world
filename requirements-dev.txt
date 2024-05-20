@@ -1,7 +1,7 @@
 # SPDX-FileCopyrightText: 2024 Alec Delaney
 # SPDX-License-Identifier: MIT
 
-build~=1.1
+build~=1.2
 coverage~=7.5
 pre-commit~=3.5
 pytest~=8.1
