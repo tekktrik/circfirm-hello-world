@@ -4,4 +4,4 @@
 build~=1.5
 coverage~=7.14
 pre-commit~=4.6
-pytest~=9.0
+pytest~=9.1
