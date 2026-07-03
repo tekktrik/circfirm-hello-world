@@ -2,6 +2,6 @@
 # SPDX-License-Identifier: MIT
 
 build~=1.5
-coverage~=7.14
+coverage~=7.15
 pre-commit~=4.6
 pytest~=9.1
